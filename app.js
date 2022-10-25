@@ -48,7 +48,7 @@ app.use((req, res, next) => {
         message: "صفحه مورد نظر یافت نشد."
     })
 })
-
+//* Error Handler
 app.use((error, req, res, next) => {
     const status = error?.status || error?.code || 500
     const message = error?.message || "InternalServerError"
