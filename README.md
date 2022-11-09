@@ -58,7 +58,6 @@ npm i
 don't forget to config env files ! .
 
 
-End with an example of getting some data out of the system or using it for a little demo.
 
 <!-- ## 🔧 Running the tests <a name = "tests"></a>
 
