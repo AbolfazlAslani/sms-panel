@@ -27,8 +27,6 @@
 - [Deployment](#deployment)
 - [Usage](#usage)
 - [Built Using](#built_using)
-<!-- - [TODO](../TODO.md) -->
-<!-- - [Contributing](../CONTRIBUTING.md) -->
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
@@ -57,6 +55,7 @@ Say what the step will be
 npm i
 ```
 
+don't forget to config env files ! .
 
 
 End with an example of getting some data out of the system or using it for a little demo.
