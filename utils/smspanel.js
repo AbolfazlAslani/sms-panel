@@ -23,11 +23,9 @@ module.exports = async (number, name) => {
             return {
                 status: res.status,
                 datas: res.data,
-                randomNum: randomNumber
             };
         })
         .catch((err) => {
-            // console.log("AXIOS ERROR: ", err);
             return err
         })
 

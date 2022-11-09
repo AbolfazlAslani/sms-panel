@@ -5,6 +5,9 @@ const cors = require('cors');
 const dotenv = require('dotenv');
 const morgan = require('morgan');
 
+const port = process.env.PORT || 7641
+const hostname = process.env.HOST || "localhost"
+
 
 //* routes
 const postdataRoute = require('./routes/postdata');
