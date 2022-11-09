@@ -91,7 +91,7 @@ You can deploy this in any systems that support nodejs.
 ## ⛏️ Built Using <a name = "built_using"></a>
 
 - [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://melipayamak.com/) - Mellipayamak
+- [Melipayamak](https://melipayamak.com/) - Mellipayamak
 - [NodeJs](https://nodejs.org/en/) - Server Environment
 
 ## ✍️ Authors <a name = "authors"></a>
